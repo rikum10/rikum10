@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rikum10
 - 👀 I’m interested in databases and data 
-- 🌱 I’m currently learning GCP,Terraform,and coding ETL frameworks in Python
+
 - 📫 How to reach me ritu.kumari1@ingka.com
 
 <!---
